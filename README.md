@@ -14,11 +14,11 @@
 ## Макет
 Вид сверху
 
-![crabik_front](./_media/crabik_front.svg)
+![crabik_front](./_media/crabik_front.png)
 
 Вид снизу
 
-![crabik_back](./_media/crabik_back.svg)
+![crabik_back](./_media/crabik_back.png)
 
 ## Файлы дизайна
 - [Схема](./_assets/crabik-schematic-revB.pdf ':ignore :target=_blank')  
