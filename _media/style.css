@@ -59,6 +59,6 @@
     border-radius: 0px !important;
   }
 
-  section.cover.show {
-    background: linear-gradient(191.12deg, #ffc40c 0.01%, #f6871f 100.57%);
+  :root {
+    --main-bg-color: linear-gradient(191.12deg, #ffc40c 0.01%, #f6871f 100.57%);
   }

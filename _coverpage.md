@@ -9,4 +9,4 @@
 [Купить **crabik**](https://store)
 [Руководство](https://docs.crabik.ru)
 
-![color](linear-gradient(191.12deg, #ffc40c 0.01%, #f6871f 100.57%))
+![color](var(--main-bg-color))
