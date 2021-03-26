@@ -1,6 +1,6 @@
 # crabik
 
-![crabik](./_media/crabik_foto.png)
+![crabik](./_media/crabik-foto.png)
 
 ## Описание
 Мозгом платы является микроконтроллер [nRF52810](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52810) компании Nordic Semiconductor.
