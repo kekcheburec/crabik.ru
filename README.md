@@ -1,6 +1,6 @@
 # crabik
 
-![crabik](./_media/crabik-foto.png)
+![crabik](https://crabik.ru/_media/crabik-foto.png)
 
 ## Описание
 Мозгом платы является микроконтроллер [nRF52810](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52810) компании Nordic Semiconductor.
@@ -14,14 +14,14 @@
 ## Макет
 Вид сверху
 
-![crabik_front](./_media/crabik_front.png)
+![crabik_front](https://crabik.ru/_media/crabik_front.png)
 
 Вид снизу
 
-![crabik_back](./_media/crabik_back.png)
+![crabik_back](https://crabik.ru/_media/crabik_back.png)
 
 ## Файлы дизайна
-- [Схема](./_assets/crabik-schematic-revB.pdf ':ignore :target=_blank')  
+- [Схема](https://crabik.ru/_assets/crabik-schematic-revB.pdf ':ignore :target=_blank')  
 - [Интерактивный BOM](https://crabik.ru/ibom.html)
 - [Файлы KiCad](https://github.com/CrabikBoards/hardware)
 
